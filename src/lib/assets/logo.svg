@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="75"
+   height="40"
+   viewBox="0 0 76.78473 40.951854"
+   class="looka-1j8o68f"
+   version="1.1"
+   id="svg10"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="SvgjsDefs6281">
+    <rect
+       x="46.037807"
+       y="12.66932"
+       width="56.208954"
+       height="46.751575"
+       id="rect2" />
+    <linearGradient
+       id="SvgjsLinearGradient6286">
+      <stop
+         id="SvgjsStop6287"
+         stop-color="#7f00ff"
+         offset="0" />
+      <stop
+         id="SvgjsStop6288"
+         stop-color="#e100ff"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient10"
+       gradientTransform="scale(1.1261336,0.88799408)"
+       x1="26.452456"
+       y1="63.944118"
+       x2="48.523548"
+       y2="63.944118"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient11"
+       gradientTransform="scale(1.1261336,0.88799408)"
+       x1="26.452456"
+       y1="63.944118"
+       x2="48.523548"
+       y2="63.944118"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient12"
+       gradientTransform="scale(1.1259506,0.88813844)"
+       x1="11.007588"
+       y1="86.001228"
+       x2="26.456757"
+       y2="86.001228"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient13"
+       gradientTransform="scale(1.1259506,0.88813844)"
+       x1="11.007588"
+       y1="86.001228"
+       x2="26.456757"
+       y2="86.001228"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient14"
+       gradientTransform="scale(1.126065,0.88804818)"
+       x1="48.526505"
+       y1="48.491737"
+       x2="63.974991"
+       y2="48.491737"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient15"
+       gradientTransform="scale(1.126065,0.88804818)"
+       x1="48.526505"
+       y1="48.491737"
+       x2="63.974991"
+       y2="48.491737"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient16"
+       gradientTransform="scale(1.1259099,0.88817054)"
+       x1="43.268116"
+       y1="37.670692"
+       x2="54.082481"
+       y2="37.670692"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient17"
+       gradientTransform="scale(1.1259099,0.88817054)"
+       x1="43.268116"
+       y1="37.670692"
+       x2="54.082481"
+       y2="37.670692"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient18"
+       gradientTransform="scale(1.1260024,0.88809761)"
+       x1="59.333801"
+       y1="19.292925"
+       x2="70.149055"
+       y2="19.292925"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient19"
+       gradientTransform="scale(1.1260024,0.88809761)"
+       x1="59.333801"
+       y1="19.292925"
+       x2="70.149055"
+       y2="19.292925"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient20"
+       gradientTransform="scale(1.1261782,0.8879589)"
+       x1="22.587898"
+       y1="53.133091"
+       x2="33.401463"
+       y2="53.133091"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient21"
+       gradientTransform="scale(1.1261782,0.8879589)"
+       x1="22.587898"
+       y1="53.133091"
+       x2="33.401463"
+       y2="53.133091"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient22"
+       gradientTransform="scale(1.1259385,0.88814794)"
+       x1="70.15303"
+       y1="11.722146"
+       x2="77.722717"
+       y2="11.722146"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient23"
+       gradientTransform="scale(1.1259385,0.88814794)"
+       x1="70.15303"
+       y1="11.722146"
+       x2="77.722717"
+       y2="11.722146"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient24"
+       gradientTransform="scale(1.1259562,0.88813399)"
+       x1="63.981171"
+       y1="40.918377"
+       x2="71.54985"
+       y2="40.918377"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient25"
+       gradientTransform="scale(1.1259562,0.88813399)"
+       x1="63.981171"
+       y1="40.918377"
+       x2="71.54985"
+       y2="40.918377"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient26"
+       gradientTransform="scale(1.1260046,0.88809584)"
+       x1="39.577991"
+       y1="30.103733"
+       x2="47.148121"
+       y2="30.103733"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient27"
+       gradientTransform="scale(1.1260046,0.88809584)"
+       x1="39.577991"
+       y1="30.103733"
+       x2="47.148121"
+       y2="30.103733"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient28"
+       gradientTransform="scale(0.9708776,1.029996)"
+       x1="12.76577"
+       y1="10.107807"
+       x2="90.135979"
+       y2="10.107807"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient6286"
+       id="linearGradient29"
+       gradientTransform="scale(0.9708776,1.029996)"
+       x1="12.76577"
+       y1="10.107807"
+       x2="90.135979"
+       y2="10.107807"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="SvgjsG6282"
+     featurekey="symbolFeature-0"
+     transform="matrix(0.51388306,0,0,0.51388306,31.814308,-5.3500365)"
+     fill="url(#SvgjsLinearGradient6286)"
+     style="fill:url(#linearGradient29)">
+    <g
+       id="g10"
+       style="fill:url(#linearGradient28)">
+      <g
+         id="g1"
+         style="fill:url(#linearGradient11)">
+        <polygon
+           points="54.644,56.782 35.043,56.782 29.789,76.381 49.394,76.381 "
+           id="polygon1"
+           style="fill:url(#linearGradient10)" />
+      </g>
+      <g
+         id="g2"
+         style="fill:url(#linearGradient13)">
+        <polygon
+           points="29.789,76.381 16.071,76.381 12.394,90.102 26.115,90.102 "
+           id="polygon2"
+           style="fill:url(#linearGradient12)" />
+      </g>
+      <g
+         id="g3"
+         style="fill:url(#linearGradient15)">
+        <polygon
+           points="72.04,43.063 58.319,43.063 54.644,56.782 68.363,56.782 "
+           id="polygon3"
+           style="fill:url(#linearGradient14)" />
+      </g>
+      <g
+         id="g4"
+         style="fill:url(#linearGradient17)">
+        <polygon
+           points="60.892,33.458 51.288,33.458 48.716,43.063 58.319,43.063 "
+           id="polygon4"
+           style="fill:url(#linearGradient16)" />
+      </g>
+      <g
+         id="g5"
+         style="fill:url(#linearGradient19)">
+        <polygon
+           points="78.988,17.134 69.384,17.134 66.81,26.739 76.416,26.739 "
+           id="polygon5"
+           style="fill:url(#linearGradient18)" />
+      </g>
+      <g
+         id="g6"
+         style="fill:url(#linearGradient21)">
+        <polygon
+           points="37.616,47.18 28.013,47.18 25.438,56.782 35.043,56.782 "
+           id="polygon6"
+           style="fill:url(#linearGradient20)" />
+      </g>
+      <g
+         id="g7"
+         style="fill:url(#linearGradient23)">
+        <polygon
+           points="87.511,10.411 80.79,10.411 78.988,17.134 85.71,17.134 "
+           id="polygon7"
+           style="fill:url(#linearGradient22)" />
+      </g>
+      <g
+         id="g8"
+         style="fill:url(#linearGradient25)">
+        <polygon
+           points="80.562,36.341 73.842,36.341 72.04,43.063 78.762,43.063 "
+           id="polygon8"
+           style="fill:url(#linearGradient24)" />
+      </g>
+      <g
+         id="g9"
+         style="fill:url(#linearGradient27)">
+        <polygon
+           points="53.089,26.735 46.37,26.735 44.565,33.458 51.288,33.458 "
+           id="polygon9"
+           style="fill:url(#linearGradient26)" />
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     transform="matrix(1.0237964,0,0,1.0237964,-47.100237,-12.834232)"
+     id="text2"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:1;font-family:'Neue Haas Grotesk Display Pro';-inkscape-font-specification:'Neue Haas Grotesk Display Pro Bold Italic';white-space:pre;shape-inside:url(#rect2);opacity:0.99;fill:#424242;stroke-width:0.817;stroke-linejoin:round;paint-order:stroke fill markers"><tspan
+       x="46.037109"
+       y="23.449922"
+       id="tspan1">Fetch 
+</tspan><tspan
+       x="46.037109"
+       y="37.449922"
+       id="tspan2">JSON
+</tspan><tspan
+       x="46.037109"
+       y="51.449922"
+       id="tspan3">Data</tspan></text>
+</svg>

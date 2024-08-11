@@ -1,0 +1,111 @@
+@font-face {
+  font-family: "ZenOldMincho-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("$lib/assets/ZenOldMincho-Regular.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Material Icons";
+  font-style: normal;
+  font-weight: normal;
+  src: url("$lib/assets/MaterialSymbolsOutlined.woff2") format("woff2");
+  font-display: swap;
+}
+.material-icons {
+  font-family: "Material Icons";
+  font-variation-settings: "FILL" 1, "wght" 400, "GRAD" 0, "opsz" 24;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  /* scroll-behavior: smooth; */
+}
+html:has(dialog[open]) {
+  overflow: hidden;
+}
+body {
+  background: black;
+  color: white;
+  font: 1em "ZenOldMincho-Regular", serif;
+  margin: 0;
+  /* font: 1.2em "Voto Serif GX", serif;
+  	font-variation-settings: "wght" 100, "wdth" 80, "opsz" 50; */
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: unset;
+  margin: 2rem 0 1rem;
+}
+h1:first-child,
+h2:first-child,
+h3:first-child,
+h4:first-child,
+h5:first-child,
+h6:first-child {
+  margin: 0 0 1rem;
+}
+h1 {
+  font-size: 1.8rem;
+  text-align: center;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+h2 {
+  font-size: 1.4rem;
+}
+p {
+  margin: revert;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+ul {
+  padding: revert;
+}
+ol {
+  padding-left: 16px;
+}
+button {
+  display: block;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: inherit;
+  color: #fff;
+}
+img,
+picture,
+svg {
+  display: inherit;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+/* MAIN */
+main {
+}
+.contain {
+  max-width: 984px;
+  margin: auto;
+  padding: 8px;
+}
+.contain:first-child {
+  margin: 56px auto 0;
+}
+.contain > .inner {
+  max-width: 782px;
+  margin: auto;
+}
