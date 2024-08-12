@@ -120,13 +120,15 @@
   <div class="inner">
     <SearchForm {query} on:search={handleSearch} />
     <dl class="users">
+      <div class="title">
+        <dt>ID</dt>
+        <dt>Name</dt>
+        <dt>Age</dt>
+      </div>
       {#each users as users}
-        <div class="card">
-          <dt>ID</dt>
+        <div class="data">
           <dd>{users.id}</dd>
-          <dt>Name</dt>
           <dd>{users.name}</dd>
-          <dt>Age</dt>
           <dd>{users.age}</dd>
         </div>
       {/each}
@@ -190,6 +192,8 @@
     display: grid;
     gap: 1rem;
     grid-template-columns: repeat(auto-fit, minmax(192px, auto));
+    max-width: 400px;
+    margin: auto;
   }
   input[type="text"] {
     width: 192px;
@@ -199,20 +203,6 @@
   }
   input[type="password"] {
     width: 192px;
-  }
-  .card {
-    max-width: 400px;
-    display: grid;
-    grid-template-columns: 80px auto;
-    border-top: solid 2px #ccc;
-    border-right: solid 2px #ccc;
-    border-left: solid 2px #ccc;
-    color: #000;
-    margin: 16px auto;
-  }
-  .form {
-    max-width: 400px;
-    margin: auto;
   }
   h3 {
     margin: 32px 0 0;

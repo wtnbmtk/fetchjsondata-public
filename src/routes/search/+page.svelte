@@ -71,13 +71,15 @@
 
     {#if filteredCard.length > 0}
       <dl class="users">
+        <div class="title">
+          <dt>ID</dt>
+          <dt>Name</dt>
+          <dt>Age</dt>
+        </div>
         {#each filteredCard as users}
-          <div class="card">
-            <dt>ID</dt>
+          <div class="data">
             <dd>{users.id}</dd>
-            <dt>Name</dt>
             <dd>{users.name}</dd>
-            <dt>Age</dt>
             <dd>{users.age}</dd>
           </div>
         {/each}

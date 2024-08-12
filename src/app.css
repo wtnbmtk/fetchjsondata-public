@@ -219,41 +219,26 @@ main {
   margin: auto;
 }
 dl {
+  border-top: solid 2px #ccc;
+  border-right: solid 2px #ccc;
+  border-left: solid 2px #ccc;
+  color: #000;
 }
 dl dt {
   border-bottom: solid 2px #ccc;
-  display: grid;
-  place-content: center;
   padding: 8px;
   background: #eee;
 }
 dl dd {
   border-bottom: solid 2px #ccc;
-  border-left: solid 2px #ccc;
-  display: grid;
-  place-content: center start;
   padding: 8px;
   background: #fcfcfc;
-  margin: 0;
-  n {
-    font-size: x-small;
-    vertical-align: top;
-  }
-  dl ul {
-    padding-left: 1.5rem;
-  }
-  .prices {
-    text-decoration: underline;
-    color: blue;
-  }
 }
-
-dl span {
-  font-size: x-small;
-  vertical-align: top;
-}
-dl ul {
-  padding-left: 1.5rem;
+.title,
+.data {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
 }
 .prices {
   text-decoration: underline;
